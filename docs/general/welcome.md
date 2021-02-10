@@ -58,7 +58,7 @@ For production bots, using @discordjs/opus should be considered a necessity, esp
 
 ## Example usage
 
-```js
+```javascript
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
